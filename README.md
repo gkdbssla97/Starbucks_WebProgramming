@@ -11,3 +11,10 @@ After the web production is completed, my own web development is planned at a la
 ![image](https://user-images.githubusercontent.com/55674664/147844949-ec2d67c7-1760-40dd-b76c-ad9f0b0baf00.png)
 Changed the mobile-only interface when resizing the window screen by dragging from the full screen
 It can be seen that the text format is changed to the icon format.
+
+#day3
+-Web
+![image](https://user-images.githubusercontent.com/55674664/147869425-b81117c1-7c2f-4b1f-961f-af7f7d1b8b74.png)
+-Mobile
+![image](https://user-images.githubusercontent.com/55674664/147869495-470f0798-af85-49d8-b3fc-44d409d2c969.png)
+The bottom of the screen is set to be web or mobile depending on the window size. In setting the image composition and layout of the background, there was a difficulty in that the layout is broken if the size is reduced.
