@@ -18,3 +18,8 @@ It can be seen that the text format is changed to the icon format.
 -Mobile
 ![image](https://user-images.githubusercontent.com/55674664/147869495-470f0798-af85-49d8-b3fc-44d409d2c969.png)
 The bottom of the screen is set to be web or mobile depending on the window size. In setting the image composition and layout of the background, there was a difficulty in that the layout is broken if the size is reduced.
+
+#day4
+-Web
+![image](https://user-images.githubusercontent.com/55674664/147906537-314c4512-74c6-428e-be35-20a4401beb80.png)
+Following day3, a button was created at the bottom of the web. There was a problem that the frame was broken because there was a conflict between inline and block setting and padding.
