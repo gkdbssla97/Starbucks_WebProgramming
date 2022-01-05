@@ -30,6 +30,7 @@ Following day3, a button was created at the bottom of the web. There was a probl
 Finally, I made a simple screen configuration. Since it is a responsive web production, it was difficult to work with not only the web but also tablets and mobiles in mind.
 Buttons for membership registration and login are also planned to be linked.
 As the back-end is the goal, I will continue to create web sites.
+
 -tablet
 ![image](https://user-images.githubusercontent.com/55674664/148170134-a869844c-eed5-4bbe-b05e-ad34ee595806.png)
 -mobile
