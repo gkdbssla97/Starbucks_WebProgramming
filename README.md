@@ -23,3 +23,14 @@ The bottom of the screen is set to be web or mobile depending on the window size
 -Web
 ![image](https://user-images.githubusercontent.com/55674664/147906537-314c4512-74c6-428e-be35-20a4401beb80.png)
 Following day3, a button was created at the bottom of the web. There was a problem that the frame was broken because there was a conflict between inline and block setting and padding.
+
+#day5
+-Web
+![image](https://user-images.githubusercontent.com/55674664/148170088-051a68bb-7d71-469e-953c-d8cefab6c24f.png)
+Finally, I made a simple screen configuration. Since it is a responsive web production, it was difficult to work with not only the web but also tablets and mobiles in mind.
+Buttons for membership registration and login are also planned to be linked.
+As the back-end is the goal, I will continue to create web sites.
+-tablet
+![image](https://user-images.githubusercontent.com/55674664/148170134-a869844c-eed5-4bbe-b05e-ad34ee595806.png)
+-mobile
+![image](https://user-images.githubusercontent.com/55674664/148170167-182cba6a-113d-4dcb-9846-2b67051add15.png)
